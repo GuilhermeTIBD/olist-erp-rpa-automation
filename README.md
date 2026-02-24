@@ -47,3 +47,13 @@ olist-erp-rpa-automation/
 ```bash
 pip install -r requirements.txt
 python gerar_olist.py
+
+📈 Results
+
+Significant reduction in operational time
+
+Standardized accounting entries
+
+Reduced manual errors
+
+Scalable solution for high order volume
