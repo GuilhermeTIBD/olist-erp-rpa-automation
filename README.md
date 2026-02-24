@@ -49,9 +49,20 @@ pip install -r requirements.txt
 python gerar_olist.py
 
 
+## ▶️ Como Correr
+
+```bash
+pip install -r requirements.txt
+python gerar_olist.py
+```
+
+---
+
 ## 📈 Results
 
-- Reduced financial settlement time by over 80%
-- Eliminated repetitive manual tasks
-- Improved accounting consistency
-- Enabled scalable processing of thousands of orders
+- Significant reduction in operational time  
+- Standardized accounting entries  
+- Reduced manual errors  
+- Scalable solution for high order volumes  
+
+---
