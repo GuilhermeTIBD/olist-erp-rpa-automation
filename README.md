@@ -42,13 +42,6 @@ olist-erp-rpa-automation/
 
 ---
 
-## ▶️ How to Run
-
-```bash
-pip install -r requirements.txt
-python gerar_olist.py
-
-
 ## ▶️ Como Correr
 
 ```bash
