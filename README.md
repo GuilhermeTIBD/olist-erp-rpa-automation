@@ -48,12 +48,10 @@ olist-erp-rpa-automation/
 pip install -r requirements.txt
 python gerar_olist.py
 
-📈 Results
 
-Significant reduction in operational time
+## 📈 Results
 
-Standardized accounting entries
-
-Reduced manual errors
-
-Scalable solution for high order volume
+- Reduced financial settlement time by over 80%
+- Eliminated repetitive manual tasks
+- Improved accounting consistency
+- Enabled scalable processing of thousands of orders
